@@ -19,7 +19,7 @@ I was happy with my project structure in the DDD sense with a good separation of
 
 ## Things I'm not happy with
 * My knowledge of SignalR is 0 so tried to get that working, however to do so I needed a front end (which I do have as a separate project) but I never got the two elements to work together properly.
-* My EntityFramework knowledge is rather ancient and I fear my implementation here is a bit clumsy but I have it a go. 
+* My EntityFramework knowledge is rather ancient and I fear my implementation here is a bit clumsy. 
 * I'm guilty of trying to fit a lot in, the user element could have been ditched and made more 'hardcoded' for demo purposes.
 * I'm annoyed not to have it running properly.
 
