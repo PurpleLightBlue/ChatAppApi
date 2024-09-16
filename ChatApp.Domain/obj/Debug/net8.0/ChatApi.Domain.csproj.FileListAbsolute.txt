@@ -1,0 +1,11 @@
+C:\SRC\PurpleTuesday\ChatApp\ChatAppAPI\ChatAppAPI.Domain\obj\Debug\net8.0\ChatApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\SRC\PurpleTuesday\ChatApp\ChatAppAPI\ChatAppAPI.Domain\obj\Debug\net8.0\ChatApi.Domain.AssemblyInfoInputs.cache
+C:\SRC\PurpleTuesday\ChatApp\ChatAppAPI\ChatAppAPI.Domain\obj\Debug\net8.0\ChatApi.Domain.AssemblyInfo.cs
+C:\SRC\PurpleTuesday\ChatApp\ChatAppAPI\ChatAppAPI.Domain\obj\Debug\net8.0\ChatApi.Domain.csproj.CoreCompileInputs.cache
+C:\SRC\PurpleTuesday\ChatApp\ChatAppAPI\ChatAppAPI.Domain\bin\Debug\net8.0\ChatApi.Domain.deps.json
+C:\SRC\PurpleTuesday\ChatApp\ChatAppAPI\ChatAppAPI.Domain\bin\Debug\net8.0\ChatApi.Domain.dll
+C:\SRC\PurpleTuesday\ChatApp\ChatAppAPI\ChatAppAPI.Domain\bin\Debug\net8.0\ChatApi.Domain.pdb
+C:\SRC\PurpleTuesday\ChatApp\ChatAppAPI\ChatAppAPI.Domain\obj\Debug\net8.0\ChatApi.Domain.dll
+C:\SRC\PurpleTuesday\ChatApp\ChatAppAPI\ChatAppAPI.Domain\obj\Debug\net8.0\refint\ChatApi.Domain.dll
+C:\SRC\PurpleTuesday\ChatApp\ChatAppAPI\ChatAppAPI.Domain\obj\Debug\net8.0\ChatApi.Domain.pdb
+C:\SRC\PurpleTuesday\ChatApp\ChatAppAPI\ChatAppAPI.Domain\obj\Debug\net8.0\ref\ChatApi.Domain.dll
